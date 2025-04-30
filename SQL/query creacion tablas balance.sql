@@ -1,5 +1,5 @@
---create database balance_aluminio_mike_bd
---go
+create database balance_aluminio_mike_bd
+go
 use balance_aluminio_mike_bd
 go
 
